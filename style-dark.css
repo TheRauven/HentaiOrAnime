@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(223, 209, 209)
+}
+
+.navbar {
+    position: absolute;
+    right: 0px;
+    text-align: right;
+    padding: .8rem;
+}
+
+.jumbotron {
+    background-color: #362c33;
+    padding-top: 82px;
+    padding-bottom: 0px;
+    margin:auto;
+}
+
+.jumbotron.row {
+    display: block;
+    text-align: center;
+
+}
+
+.img-fluid {
+    max-height: 32rem;
+    text-align: center;
+}
+
+.button-or {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#score-label {
+    padding-bottom: 0%;
+    padding-top: 1rem;
+}
+
+.navbar-nav li {
+    padding-right: 20px;
+}
+
+body {
+    background-color: #362c33;
+}
+
+/*---Media Queries --*/
+@media (max-width: 992px) {
+
+}
+@media (max-width: 768px) {
+
+}
+@media (max-width: 576px) {
+
+}
+
+/*
+Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large (lg) devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+*/
