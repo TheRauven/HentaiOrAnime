@@ -16,8 +16,12 @@ window.onload = function () {
         if (selectedImage[0].type === "anime") {
             changeScore(true);
             $('#anime-btn').attr('class', "btn btn-success");
+            x = document.getElementById("grunt-audio");
+            playAudio();
         } else {
             $('#anime-btn').attr('class', "btn btn-danger");
+            chooseAudio(score);
+            playAudio();
             changeScore(false);
         }
         showFullPic();
@@ -27,8 +31,12 @@ window.onload = function () {
         if (selectedImage[0].type === "hentai") {
             changeScore(true);
             $('#hentai-btn').attr('class', "btn btn-success");
+            chooseAudio(score);
+            playAudio();
         } else {
             $('#hentai-btn').attr('class', "btn btn-danger");
+            x = document.getElementById("grunt-audio");
+            playAudio();
             changeScore(false);
         }
         showFullPic();
@@ -43,13 +51,13 @@ window.onload = function () {
 function lightSwitch() {
     if (!dark) {
         theme.href = "style-dark.css";
-        $('#aoh-btn').attr('class', "btn btn-dark");
-        $('.nav-btn').attr('class', "btn btn-light");
+        // $('#aoh-btn').attr('class', "btn btn-dark");
+        // $('#nav-btn').attr('class', "btn btn-light");
         dark = true;
     } else {
         theme.href = "style.css";
-        $('#aoh-btn').attr('class', "btn btn-light");
-        $('.nav-btn').attr('class', "btn btn-dark");
+        // $('#aoh-btn').attr('class', "btn btn-light");
+        // $('#nav-btn').attr('class', "btn btn-dark");
         dark = false;
     }
 }
@@ -57,8 +65,6 @@ function lightSwitch() {
 function changeScore(success) {
     if (success) {
         score++;
-        chooseAudio(score);
-        playAudio();
     } else {
         score = 0;
     }
@@ -74,24 +80,21 @@ function showFullPic(success) {
 
     setTimeout(() => {
         if(!dark) {
-            $('#aoh-btn').attr('class', "btn btn-dark");
+            $('#hentai-btn').attr('class', "btn btn-dark");
+            $('#anime-btn').attr('class', "btn btn-dark");
         } else {
-            $('#aoh-btn').attr('class', "btn btn-light");
+            $('#hentai-btn').attr('class', "btn btn-light");
+            $('#anime-btn').attr('class', "btn btn-light");
         }
         showRandomImage();
 
     }, timeImageIsShown);
-    //sleep for x
-    //change color of both buttons
 };
 
 function showRandomImage() {
     var value = Math.ceil(Math.random() * jsonfull.length);
 
     selectedImage = jsonfull.splice(value, 1);
-
-    // console.log("Value " + value);
-    // console.log("Object: " + selectedImage[0].imageLink);
 
     $('#main-image').attr('src', (selectedImage[0].imageLinkCropped));
 };
