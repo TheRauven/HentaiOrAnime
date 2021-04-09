@@ -27,6 +27,10 @@ html, body {
 
 }
 
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(223, 209, 209);
+}
+
 .img-fluid {
     max-height: 32rem;
     text-align: center;

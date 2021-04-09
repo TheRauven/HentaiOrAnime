@@ -51,13 +51,13 @@ window.onload = function () {
 function lightSwitch() {
     if (!dark) {
         theme.href = "style-dark.css";
-        // $('#aoh-btn').attr('class', "btn btn-dark");
-        // $('#nav-btn').attr('class', "btn btn-light");
+        $('.aoh-btn').attr('class', "btn btn-light aoh-btn");
+        $('.nav-btn').attr('class', "btn btn-dark nav-btn");
         dark = true;
     } else {
         theme.href = "style.css";
-        // $('#aoh-btn').attr('class', "btn btn-light");
-        // $('#nav-btn').attr('class', "btn btn-dark");
+        $('.aoh-btn').attr('class', "btn btn-dark aoh-btn");
+        $('.nav-btn').attr('class', "btn btn-light nav-btn");
         dark = false;
     }
 }
@@ -79,7 +79,7 @@ function showFullPic(success) {
     $('#main-image').attr('src', (selectedImage[0].imageLink));
 
     setTimeout(() => {
-        if(!dark) {
+        if (!dark) {
             $('#hentai-btn').attr('class', "btn btn-dark");
             $('#anime-btn').attr('class', "btn btn-dark");
         } else {
