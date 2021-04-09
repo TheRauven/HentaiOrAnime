@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "type":"anime",
+        "imageLink": "images/anime/anime1.jpg",
+        "imageLinkCropped": "images/anime/anime1cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 2,
+        "type":"anime",
+        "imageLink": "images/anime/anime2.jpg",
+        "imageLinkCropped": "images/anime/anime2cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 3,
+        "type":"anime",
+        "imageLink": "images/anime/anime3.jpg",
+        "imageLinkCropped": "images/anime/anime3cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 4,
+        "type":"anime",
+        "imageLink": "images/anime/anime4.png",
+        "imageLinkCropped": "images/anime/anime4cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 5,
+        "type":"anime",
+        "imageLink": "images/anime/anime5.png",
+        "imageLinkCropped": "images/anime/anime5cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 6,
+        "type":"anime",
+        "imageLink": "images/anime/anime6.jpg",
+        "imageLinkCropped": "images/anime/anime6cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 7,
+        "type":"anime",
+        "imageLink": "images/anime/anime7.jpg",
+        "imageLinkCropped": "images/anime/anime7cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 8,
+        "type":"anime",
+        "imageLink": "images/anime/anime8.jpg",
+        "imageLinkCropped": "images/anime/anime8cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 9,
+        "type":"anime",
+        "imageLink": "images/anime/anime9.png",
+        "imageLinkCropped": "images/anime/anime9cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 10,
+        "type":"anime",
+        "imageLink": "images/anime/anime10.png",
+        "imageLinkCropped": "images/anime/anime10cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 11,
+        "type":"anime",
+        "imageLink": "images/anime/anime11.jpg",
+        "imageLinkCropped": "images/anime/anime11cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 12,
+        "type":"anime",
+        "imageLink": "images/anime/anime12.jpg",
+        "imageLinkCropped": "images/anime/anime12cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 13,
+        "type":"anime",
+        "imageLink": "images/anime/anime13.jpg",
+        "imageLinkCropped": "images/anime/anime13cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 14,
+        "type":"anime",
+        "imageLink": "images/anime/anime14.jpg",
+        "imageLinkCropped": "images/anime/anime14cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 15,
+        "type":"anime",
+        "imageLink": "images/anime/anime15.png",
+        "imageLinkCropped": "images/anime/anime15cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 16,
+        "type":"anime",
+        "imageLink": "images/anime/anime16.jpg",
+        "imageLinkCropped": "images/anime/anime16cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 17,
+        "type":"anime",
+        "imageLink": "images/anime/anime17.jpg",
+        "imageLinkCropped": "images/anime/anime17cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 18,
+        "type":"anime",
+        "imageLink": "images/anime/anime18.png",
+        "imageLinkCropped": "images/anime/anime18cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 19,
+        "type":"anime",
+        "imageLink": "images/anime/anime19.png",
+        "imageLinkCropped": "images/anime/anime19cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 20,
+        "type":"anime",
+        "imageLink": "images/anime/anime20.jpg",
+        "imageLinkCropped": "images/anime/anime20cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 21,
+        "type":"hentai",
+        "imageLink": "images/hentai/hentai1.jpg",
+        "imageLinkCropped": "images/hentai/hentai1cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 22,
+        "type":"hentai",
+        "imageLink": "images/hentai/hentai2.jpeg",
+        "imageLinkCropped": "images/hentai/hentai2cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 23,
+        "type":"hentai",
+        "imageLink": "images/hentai/hentai3.jpg",
+        "imageLinkCropped": "images/hentai/hentai3cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 24,
+        "type":"hentai",
+        "imageLink": "images/hentai/hentai4.jpg",
+        "imageLinkCropped": "images/hentai/hentai4cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 25,
+        "type":"hentai",
+        "imageLink": "images/hentai/hentai5.png",
+        "imageLinkCropped": "images/hentai/hentai5cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 26,
+        "type":"hentai",
+        "imageLink": "images/hentai/hentai6.png",
+        "imageLinkCropped": "images/hentai/hentai6cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 27,
+        "type":"hentai",
+        "imageLink": "images/hentai/hentai7.jpg",
+        "imageLinkCropped": "images/hentai/hentai7cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 28,
+        "type":"hentai",
+        "imageLink": "images/hentai/hentai8.jpg",
+        "imageLinkCropped": "images/hentai/hentai8cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 29,
+        "type":"hentai",
+        "imageLink": "images/hentai/hentai9.png",
+        "imageLinkCropped": "images/hentai/hentai9cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 30,
+        "type":"hentai",
+        "imageLink": "images/hentai/hentai10.jpg",
+        "imageLinkCropped": "images/hentai/hentai10cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 31,
+        "type":"hentai",
+        "imageLink": "images/hentai/hentai11.jpg",
+        "imageLinkCropped": "images/hentai/hentai11cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 32,
+        "type":"hentai",
+        "imageLink": "images/hentai/hentai12.png",
+        "imageLinkCropped": "images/hentai/hentai12cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 33,
+        "type":"hentai",
+        "imageLink": "images/hentai/hentai13.jpg",
+        "imageLinkCropped": "images/hentai/hentai13cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 34,
+        "type":"hentai",
+        "imageLink": "images/hentai/hentai14.jpg",
+        "imageLinkCropped": "images/hentai/hentai14cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 35,
+        "type":"hentai",
+        "imageLink": "images/hentai/hentai15.jpg",
+        "imageLinkCropped": "images/hentai/hentai15cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 36,
+        "type":"hentai",
+        "imageLink": "images/hentai/hentai16.jpg",
+        "imageLinkCropped": "images/hentai/hentai16cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 37,
+        "type":"hentai",
+        "imageLink": "images/hentai/hentai17.jpg",
+        "imageLinkCropped": "images/hentai/hentai17cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 38,
+        "type":"hentai",
+        "imageLink": "images/hentai/hentai18.jpg",
+        "imageLinkCropped": "images/hentai/hentai18cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 39,
+        "type":"hentai",
+        "imageLink": "images/hentai/hentai19.jpg",
+        "imageLinkCropped": "images/hentai/hentai19cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    },
+    {
+        "id": 40,
+        "type":"hentai",
+        "imageLink": "images/hentai/hentai20.jpg",
+        "imageLinkCropped": "images/hentai/hentai20cropped.png",
+        "startX":"0",
+        "startY":"0",
+        "endX":"0",
+        "endY":"0"
+    }
+]
