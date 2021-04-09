@@ -25,17 +25,17 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <button type="button" class="btn btn-light nav-btn">
+                        <button type="button" class="btn btn-light">
                             <a class="nav-link" href="#">About Us</a>
                         </button>
                     </li>
                     <li class="nav-item">
-                        <button type="button" class="btn btn-light nav-btn">
+                        <button type="button" class="btn btn-light">
                             <a class="nav-link" href="#">Donate</a>
                         </button>
                     </li>
                     <li class="nav-item">
-                        <button type="button" class="btn btn-light nav-btn" id="btn-toggle">
+                        <button type="button" class="btn btn-light" id="btn-toggle">
                             <a class="nav-link" href="#">Dark Mode</a>
                         </button>
                     </li>
@@ -57,7 +57,8 @@
     <div class="image">
         <div class="container-fluid">
             <div class="row jumbotron">
-                    <img id="main-image" src="" class="img-fluid" alt="Responsive image">
+                    <!-- <img src="https://jw-webmagazine.com/wp-content/uploads/2020/03/Kimetsu-no-YaibaDemon-Slayer.jpg" class="img-fluid" alt="Responsive image"> -->
+                    <img id="main-image" src="" class="img-fluid" alt="Responsive image"> 
                 <div>
                     <p id="score-label">Score: 0</p>
                 </div>
@@ -67,11 +68,14 @@
     </div>
     <!-- Button -->
     <div class="text-center">
-        <button type="button" id="anime-btn" class="btn btn-dark">Anime</button>
+        <button type="button" id="anime-btn" class="btn btn-dark aoh-btn">Anime</button>
         <span class="button-or">or</span>
-        <button type="button" id="hentai-btn" class="btn btn-dark">Hentai</button>
+        <button type="button" id="hentai-btn" class="btn btn-dark aoh-btn">Hentai</button>
     </div>
 
+    <audio id="grunt-audio">
+        <source src="Moans/male_grunt.mp3" type="audio/mp3">
+    </audio>
     <audio id="myAudio1">
         <source src="Moans/Moan 2.wav" type="audio/wav">
     </audio>
